@@ -1,0 +1,7 @@
+# Optional dependencies for the local Paper Atlas UI, extraction, and MCP server.
+solara==1.64.0
+networkx==3.6.1
+matplotlib==3.11.2
+requests==2.34.2
+PyMuPDF==1.28.2
+mcp==2.3.0
